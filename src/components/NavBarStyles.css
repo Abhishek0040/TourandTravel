@@ -1,0 +1,19 @@
+.NavBarItems {
+  /* margin: 10px 5px; */
+  box-shadow: 0 5px 15px 0 rgb(0, 0, 0, 0.25);
+  border-radius: 13px;
+  /* left: 50%; */
+}
+
+#basic-navbar-nav {
+  transition-timing-function: ease-in-out;
+  transition-duration: 200ms;
+}
+.Nav_components {
+  color: black;
+}
+.Nav_components:hover {
+  background-color: #01959a;
+  /* color: white; */
+  border-radius: 13px;
+}
